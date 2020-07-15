@@ -9,9 +9,8 @@ Algorithms for the People is a blog that accompanies Brown University's CS 2950v
 - [https://www.carceral.tech/](https://www.carceral.tech/)
 ctrn is a space of convening for those organizing against the design, experimentation, and deployment of carceral technologies.
 
-### ART:
-- [Putin Horse2Zebra](https://camo.githubusercontent.com/757b691307b52fe8a0806dde3a560dc068dbf5b3/68747470733a2f2f6a756e79616e7a2e6769746875622e696f2f4379636c6547414e2f696d616765732f6661696c7572655f707574696e2e6a7067) (Pretty creepy looking FYI!)
-- Runway also has an official [Slack](https://runwayml.com/joinslack). This can be helpful for debugging technical issues or to see what others are making.
+### Activism:
+- [Data Healing Digital Doulas Take Restorative Justice to Cyberspace](https://www.bitchmedia.org/article/digital-doulas-fixing-data-trauma)
 
 ### Datasets:
 - [The Gender Spectrum Collection](https://genderphotos.vice.com/) 
