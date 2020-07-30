@@ -19,8 +19,8 @@ ctrn is a space of convening for those organizing against the design, experiment
 ### Books:
 - [Design Justice: Community-Led Practices to Build the Worlds We Need](https://mitpress.mit.edu/books/design-justice)
 
-
-
+### Opportunities:
+- [OpenAI Scholars Program](https://jobs.lever.co/openai/90311c53-38a6-467d-98ca-2d2735fa1a8a)
 ### Datasets:
 - [The Gender Spectrum Collection](https://genderphotos.vice.com/) 
 The Gender Spectrum Collection is a stock photo library featuring images of trans and non-binary models that go beyond the clichés. This collection aims to help media better represent members of these communities as people not necessarily defined by their gender identities—people with careers, relationships, talents, passions, and home lives.
